@@ -1,0 +1,10 @@
+ingredients:
+- taco shell
+- avocado
+- egg
+- arugula
+- chili sauce
+
+steps:
+1. add everything on top of taco shell
+2. put in microwave for 15 seconds
